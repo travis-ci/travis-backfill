@@ -96,7 +96,7 @@ GEM
       redis (>= 3.3.5, < 5)
     thread_safe (0.3.6)
     travis-encrypt (0.0.5)
-    tzinfo (1.2.6)
+    tzinfo (1.2.10)
       thread_safe (~> 0.1)
     vcr (5.0.0)
 
